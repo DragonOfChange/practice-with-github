@@ -1,2 +1,2 @@
 # practice-with-github
-Github practice okc 2020
+Github practice OKC 2020
